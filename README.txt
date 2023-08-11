@@ -1,5 +1,3 @@
-<Google index>
-
 Title:cancer_detection_votingClassifeir ( Found Accuracy 99% using ensamble techique by VotingClassifier from sklearn)
 
 Abstract:
